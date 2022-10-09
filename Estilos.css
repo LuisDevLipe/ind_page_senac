@@ -21,6 +21,7 @@
     body
 {
     background-image: url("imagens/restless.gif");
+    background-color:purple;
     height:100%;
     background-attachment:scroll;
     
